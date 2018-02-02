@@ -1,6 +1,7 @@
 #My-First is ALSO a  test file for github
  
- 
+Craig was here
+
 A test file that will show me that I have a full understanding of the git concept and that I can do this myself.
 
 Althoug I'm posting this publically for all to see its really more for me.
